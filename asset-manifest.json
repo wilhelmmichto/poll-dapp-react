@@ -1,15 +1,15 @@
 {
-  "main.css": "/defi-staking-app/static/css/main.de75d93f.chunk.css",
-  "main.js": "/defi-staking-app/static/js/main.d8871bd9.chunk.js",
-  "main.js.map": "/defi-staking-app/static/js/main.d8871bd9.chunk.js.map",
-  "static/css/1.0552f8f3.chunk.css": "/defi-staking-app/static/css/1.0552f8f3.chunk.css",
-  "static/js/1.08be1b35.chunk.js": "/defi-staking-app/static/js/1.08be1b35.chunk.js",
-  "static/js/1.08be1b35.chunk.js.map": "/defi-staking-app/static/js/1.08be1b35.chunk.js.map",
-  "runtime~main.js": "/defi-staking-app/static/js/runtime~main.7145792d.js",
-  "runtime~main.js.map": "/defi-staking-app/static/js/runtime~main.7145792d.js.map",
-  "static/css/1.0552f8f3.chunk.css.map": "/defi-staking-app/static/css/1.0552f8f3.chunk.css.map",
-  "static/css/main.de75d93f.chunk.css.map": "/defi-staking-app/static/css/main.de75d93f.chunk.css.map",
-  "index.html": "/defi-staking-app/index.html",
-  "precache-manifest.28b3efeafd76dd10f46c54b052cf59a4.js": "/defi-staking-app/precache-manifest.28b3efeafd76dd10f46c54b052cf59a4.js",
-  "service-worker.js": "/defi-staking-app/service-worker.js"
+  "main.css": "/poll-dapp-react/static/css/main.de75d93f.chunk.css",
+  "main.js": "/poll-dapp-react/static/js/main.5d0484bd.chunk.js",
+  "main.js.map": "/poll-dapp-react/static/js/main.5d0484bd.chunk.js.map",
+  "static/css/1.0552f8f3.chunk.css": "/poll-dapp-react/static/css/1.0552f8f3.chunk.css",
+  "static/js/1.6465c9d0.chunk.js": "/poll-dapp-react/static/js/1.6465c9d0.chunk.js",
+  "static/js/1.6465c9d0.chunk.js.map": "/poll-dapp-react/static/js/1.6465c9d0.chunk.js.map",
+  "runtime~main.js": "/poll-dapp-react/static/js/runtime~main.97e41507.js",
+  "runtime~main.js.map": "/poll-dapp-react/static/js/runtime~main.97e41507.js.map",
+  "static/css/main.de75d93f.chunk.css.map": "/poll-dapp-react/static/css/main.de75d93f.chunk.css.map",
+  "static/css/1.0552f8f3.chunk.css.map": "/poll-dapp-react/static/css/1.0552f8f3.chunk.css.map",
+  "index.html": "/poll-dapp-react/index.html",
+  "precache-manifest.f11c295180f4dd78bf451a2b3f5183cb.js": "/poll-dapp-react/precache-manifest.f11c295180f4dd78bf451a2b3f5183cb.js",
+  "service-worker.js": "/poll-dapp-react/service-worker.js"
 }

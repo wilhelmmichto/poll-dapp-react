@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/defi-staking-app/precache-manifest.28b3efeafd76dd10f46c54b052cf59a4.js"
+  "/poll-dapp-react/precache-manifest.f11c295180f4dd78bf451a2b3f5183cb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/defi-staking-app/index.html", {
+workbox.routing.registerNavigationRoute("/poll-dapp-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
