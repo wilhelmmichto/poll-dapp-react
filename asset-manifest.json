@@ -1,15 +1,15 @@
 {
   "main.css": "/poll-dapp-react/static/css/main.de75d93f.chunk.css",
-  "main.js": "/poll-dapp-react/static/js/main.5d0484bd.chunk.js",
-  "main.js.map": "/poll-dapp-react/static/js/main.5d0484bd.chunk.js.map",
-  "static/css/1.0552f8f3.chunk.css": "/poll-dapp-react/static/css/1.0552f8f3.chunk.css",
-  "static/js/1.6465c9d0.chunk.js": "/poll-dapp-react/static/js/1.6465c9d0.chunk.js",
-  "static/js/1.6465c9d0.chunk.js.map": "/poll-dapp-react/static/js/1.6465c9d0.chunk.js.map",
+  "main.js": "/poll-dapp-react/static/js/main.94cb9a54.chunk.js",
+  "main.js.map": "/poll-dapp-react/static/js/main.94cb9a54.chunk.js.map",
+  "static/css/1.f9a58b4b.chunk.css": "/poll-dapp-react/static/css/1.f9a58b4b.chunk.css",
+  "static/js/1.cf45c1a8.chunk.js": "/poll-dapp-react/static/js/1.cf45c1a8.chunk.js",
+  "static/js/1.cf45c1a8.chunk.js.map": "/poll-dapp-react/static/js/1.cf45c1a8.chunk.js.map",
   "runtime~main.js": "/poll-dapp-react/static/js/runtime~main.97e41507.js",
   "runtime~main.js.map": "/poll-dapp-react/static/js/runtime~main.97e41507.js.map",
   "static/css/main.de75d93f.chunk.css.map": "/poll-dapp-react/static/css/main.de75d93f.chunk.css.map",
-  "static/css/1.0552f8f3.chunk.css.map": "/poll-dapp-react/static/css/1.0552f8f3.chunk.css.map",
+  "static/css/1.f9a58b4b.chunk.css.map": "/poll-dapp-react/static/css/1.f9a58b4b.chunk.css.map",
   "index.html": "/poll-dapp-react/index.html",
-  "precache-manifest.f11c295180f4dd78bf451a2b3f5183cb.js": "/poll-dapp-react/precache-manifest.f11c295180f4dd78bf451a2b3f5183cb.js",
+  "precache-manifest.e365b37089f686b3ea044b9b5ab50a4d.js": "/poll-dapp-react/precache-manifest.e365b37089f686b3ea044b9b5ab50a4d.js",
   "service-worker.js": "/poll-dapp-react/service-worker.js"
 }

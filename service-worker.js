@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/poll-dapp-react/precache-manifest.f11c295180f4dd78bf451a2b3f5183cb.js"
+  "/poll-dapp-react/precache-manifest.e365b37089f686b3ea044b9b5ab50a4d.js"
 );
 
 workbox.clientsClaim();
