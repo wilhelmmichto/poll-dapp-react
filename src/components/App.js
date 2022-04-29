@@ -60,7 +60,7 @@ function App() {
       SetElectionsm(election);
       setloader(false);
     } else {
-      window.alert("the smart contract is not deployed current network");
+      window.alert("the smart contract is not deployed current network. Try Ropsten Network!");
     }
   };
 
